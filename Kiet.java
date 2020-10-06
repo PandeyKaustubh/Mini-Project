@@ -23,7 +23,7 @@ void display()
 System.out.println("Presenting the gem recruiters of KIET Group of Institution");
 System.out.println("Companies visiting us are as follows:-");
 System.out.println("Newgen         \t Wipro    \t Oppo     \t Hero            \t Hindustan");
-System.out.println("Kronos         \t Infotech \t tata     \t Airtel          \t Tech Mahindra");
+System.out.println("Utlimate KRONOS          \t Infotech \t tata     \t Airtel          \t Tech Mahindra");
 System.out.println("Flipkart \t Amazon   \t Sanpdeal \t Grofers         \t HP           \t Capegemini");
 System.out.println("Reliance \t Samsung  \t Lava     \t Godrej          \t Syska         \t Axis Bank");
 System.out.println("Abbott   \t Nestle   \t Ranbaxy  \t Johnson-Johnson \t Havells");
