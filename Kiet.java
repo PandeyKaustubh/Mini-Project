@@ -41,7 +41,7 @@ System.out.println("\tElectrical and Electronics Engineering");
 System.out.println("\tElectronic and Instrumentation Engineering");
 System.out.println("\tMechanical Engineering");
 System.out.println("\tCivil Engineering");
-System.out.println("KIET also offers Applied Sciences,MBA, MCA and Pharmacy departments");
+System.out.println("KIET also offers Applied Sciences, MBA, MCA and Pharmacy departments");
 
 }
 
@@ -63,10 +63,10 @@ BufferedReader br=new BufferedReader( new InputStreamReader(System.in));
 System.out.println("WELCOME TO THE KIET PLACEMENT CELL");
 System.out.println("A place that gives wings to kietian's dream every year");
 System.out.println("Kiet offers you different departments like MBA MCA BTech BPharma");
-System.out.println("we present you different facilities");
-System.out.println(" press 1 for awaring yourself with our mass recruiters");
-System.out.println(" press 2 to enter a student placement information");
-System.out.println(" press 3 for getting information about depatments in KIET");
+System.out.println("We present you different facilities");
+System.out.println(" Press 1 for awaring yourself with our mass recruiters");
+System.out.println(" Press 2 to enter a student placement information");
+System.out.println(" Press 3 for getting information about depatments in KIET");
 int a= Integer.parseInt(br.readLine());
 int n=0;
 switch(a)
@@ -78,7 +78,7 @@ ob.display();
 break;
 case 2:
 {
-System.out.println("enter the no. of student detail you want to enter");
+System.out.println("Enter the no. of student detail you want to enter");
  n= Integer.parseInt(br.readLine());
 for(int i=1;i<=n;i++)
 {
