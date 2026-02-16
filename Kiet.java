@@ -51,7 +51,7 @@ System.out.println("\t |\tName= \t\t\t\t"+name+"\t\t|");
 System.out.println("\t |\tBranch=\t\t\t\t"+branch+"\t\t|");
 System.out.println("\t |\tMonthly wage=\t\t\t"+t+"\t\t|");
 System.out.println("\t |\tAnnual wage=\t\t\t"+amt+"\t|");
-System.out.println("______________________________________________________________________________________");
+System.out.println("_______________________________________________");
 }
 }
 
@@ -100,7 +100,7 @@ ob.department();
 }
 break;
 default:
-System.out.println("WRONG CHOICE!!!");
+System.out.println("WRONG CHOICE!!!*");
 }
 
 
